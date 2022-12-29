@@ -349,7 +349,7 @@
         margin-left: auto;
         margin-right: auto;
         width: 1024px;
-        height: 1650px;
+        height: 1750px;
         background-color: #393939;
     }
 
@@ -359,7 +359,7 @@
         color: #ffffff;
         padding: 80px;
         padding-left:0px
-        margin-left: 250px;
+        margin-left:100px;
     }
 
     .connect {
