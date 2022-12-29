@@ -220,7 +220,43 @@ footer{
     display: flex;
     justify-content: space-around;
 }
-.text{
+.text1{
+    display: flex;
+    width:400px ;
+    height: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.text2{
+    display: flex;
+    width:400px ;
+    height: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.text3{
+    display: flex;
+    width:400px ;
+    height: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.text4{
     display: flex;
     width:400px ;
     height: 100px;
