@@ -380,6 +380,7 @@ display: flex;
     margin-top: 40px;
     background-color: #c9c5c5;
     border: none;
+    border-radius: 10px;
     box-shadow: inset 200px 0px 0px 0px #585858;
     color: #ffffff;
     cursor: pointer;
