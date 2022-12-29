@@ -101,13 +101,13 @@ nav a{
     transition: all 2s;
 }
 .div1-2{
-    background:url("/image/冰2.jpg") ;
+    background:url("./image/冰2.jpg") ;
     background-size: 90%;
     transform: rotateY(0);
 }
 
 .div2-2{
-    background:url("/image/冰淇淋.jpg") ;
+    background:url("./image/冰淇淋.jpg") ;
     background-size: 90%;
     transform: rotateY(-180deg);
 }
