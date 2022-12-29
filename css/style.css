@@ -71,13 +71,13 @@ nav a{
     transition: all 2s;
 }
 .div1{
-    background:url("/image/pineapple.jpg") ;
+    background:url("./image/pineapple.jpg") ;
     background-size: 130%;
     transform: rotateY(0);
 }
 
 .div2{
-    background:url("/image/How-to-Make-Taiwanese-Pineapple-Cakes-Kavey-Eats-4866.jpg") ;
+    background:url("./image/How-to-Make-Taiwanese-Pineapple-Cakes-Kavey-Eats-4866.jpg") ;
     transform: rotateY(-180deg);
 }
 .outer:hover .div1{
