@@ -60,7 +60,8 @@ nav a{
     width: 820px;
     height: 600px;
     margin: 0 auto;
-    margin-right:20px ;
+      margin-right:20px ;
+    margin-left:20px ;
 }
 .outer div{
     width: 820px;
