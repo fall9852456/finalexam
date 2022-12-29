@@ -45,15 +45,16 @@ nav a{
     border-bottom: none;
     color: #000000;
     padding: 10px 20px;
-    margin-top: 5px;
+    margin-top: 20px;
     padding-left: 0px;
 }
 .search {
     padding: 5px 7px;
     padding-right: 5px;
     padding-top: 10px;
-    width: 45px;
-    height: 55px;
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
    
 }
 .outer{
