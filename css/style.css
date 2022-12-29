@@ -396,7 +396,7 @@ display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 1517px;
-    height: 1650px;
+    height: 1700px;
     background-color: #393939;
 }
 
@@ -405,7 +405,9 @@ display: flex;
         font-size: larger;
         color: #ffffff;
         padding: 80px;
-        margin-left:620px ;
+        padding-left: 0;
+        width: 300px;
+        margin-left:600px ;
 }
 
 .connect {
@@ -477,10 +479,8 @@ display: flex;
 
 .see {
     width: 150px;
-    height: 50px;
+    height: 25px;
     padding: 10px;
-    padding-top: 15px;
-    padding-left: 38px;
     margin-top: 80px;
     margin-left: 680px;
     margin-bottom: 80px;
@@ -492,10 +492,8 @@ display: flex;
 
 .see:hover {
     width: 150px;
-    height: 50px;
+    height: 25px;
     padding: 10px;
-    padding-top: 15px;
-    padding-left: 38px;
     margin-top: 80px;
     margin-left: 680px;
     margin-bottom: 80px;
@@ -523,12 +521,10 @@ display: flex;
 
 .sign {
     width: 200px;
-    height: 40px;
-    padding-left: 70px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    margin-left: 650px;
-    margin-top: 50px;
+    height: 20px;
+   padding: 10PX;
+    margin-left: 640px;
+    margin-top: 100px;
     background-color: #f2eeee;
     border: none;
     border-radius: 10px;
@@ -536,12 +532,10 @@ display: flex;
 
 .sign:hover {
     width: 200px;
-    height: 40px;
-    padding-left: 70px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    margin-left: 650px;
-    margin-top: 50px;
+    height: 20px;
+   padding: 10PX;
+    margin-left: 640px;
+    margin-top: 100px;
     background-color: #c9c5c5;
     box-shadow: inset 400px 0px 0px 0px #585858;
     color: #ffffff;
